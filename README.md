@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Has-Mohamed
+-    Passionate mobile and web designer experienced in building applications and websites
+-    Recently cross-skilled shifted my career as a Front-end developer
+-    My experience in design helped me a lot in programming
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on creating a project that reaches wide users
