@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Has-Mohamed
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning javascrit
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on creating a project that reaches wide users
 - 📫 How to reach me Has.mohamed2@gmail.com
 
