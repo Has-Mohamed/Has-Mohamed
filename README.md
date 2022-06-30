@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Has-Mohamed
+- 👋 Hi, I’m @Hassan-Mohamed
 -    Passionate mobile and web designer experienced in building applications and websites
 -    Recently cross-skilled shifted my career as a Front-end developer
 -    My experience in design helped me a lot in programming
