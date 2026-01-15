@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @Hassan-Mohamed
--    Passionate mobile and web designer experienced in building applications and websites
--    Recently cross-skilled shifted my career as a Front-end developer
--    My experience in design helped me a lot in programming
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on creating a project that reaches wide users
-- 📫 How to reach me Has.mohamed2@gmail.com
+👋 Hello, I’m Hassan Mohamed
 
-<!---
-Has-Mohamed/Has-Mohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Senior Front-End Engineer with a strong foundation in design and user experience
+
+🧩 Proven experience building scalable, performant, and maintainable web applications
+
+🎨 Design-driven mindset that bridges the gap between UX, UI, and engineering
+
+⚙️ Skilled in translating complex requirements into clean, reusable front-end architectures
+
+👀 Passionate about software quality, accessibility, and long-term maintainability
+
+🌱 Continuously evolving expertise in JavaScript and modern front-end ecosystems
+
+🤝 Open to collaborating on high-impact products used at scale
+
+📫 Contact: Has.mohamed2@gmail.com
